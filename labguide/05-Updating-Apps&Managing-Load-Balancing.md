@@ -121,9 +121,9 @@ En esta tarea, editará el código fuente de la aplicación web para actualizar 
 1. Ejecute el siguiente comando kubectl para obtener los pods actualizados en su AKS. Copie el nombre **contoso-traders-web###** en el bloc de notas.
 
 
-    ```bash
-    kubectl get pods -n contoso-traders
-    ```
+     ```bash
+     kubectl get pods -n contoso-traders
+     ```
 
    ![Obteniendo los pods.](media/EX5-T1-S9-1.png "get pods")
 
